@@ -1,0 +1,7 @@
+Eléments:
+
+la grille: grid
+une case de la grille: block
+l'état herbe: herb
+l'état eau: water
+l'état neutre: neutral
